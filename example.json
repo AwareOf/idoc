@@ -15,8 +15,7 @@
                 { "icon": "audio", "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
                 { "icon": "book",  "url": "http://google.com/sample",  "note": "This is a good way to explain it." }
             ],
-            "connect_in":["name 1", "name 2", "name 3"],
-            "connect_out": [ "This is node 2 " ],
+            "connect": [ "This is node 2 " ],
             "position": { "x": 0, "y": 0, "width": "100px", "height": "40px" },
             "alt": "like image alt stuff."
         },
@@ -30,8 +29,7 @@
                 { "icon": "audio", "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
                 { "icon": "book",  "url": "http://google.com/sample",  "note": "This is a good way to explain it." }
             ],
-            "connect_in":["name 1", "name 2", "name 3"],
-            "connect_out": [ "name 4", "name 5", "name 6" ],
+            "connect": [ "name 4", "name 5", "name 6" ],
             "position": { "x": 40, "y": 200, "width": "120px", "height": "40px" },
             "alt": "like image alt stuff."
         }
