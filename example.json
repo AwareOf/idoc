@@ -1,0 +1,39 @@
+{
+    "id": "1234567890abcdef",
+    "title": "example",
+    "author": "hexcola",
+    "created": "2017.08.17.15:55",
+    "lastmod": "2017.08.17.15:55",
+    "body":[
+        {
+            "id": "1234567890abcdef1",
+            "name": "This is node 1",
+            "content": "**Good** Job! `console.log('hello world')` ![my pic](./a.jpg) ",
+            "ref":[
+                { "icon": "video", "url": "http://youtube.com/sample", "note": "This is a good way to explain it." },
+                { "icon": "doc",   "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
+                { "icon": "audio", "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
+                { "icon": "book",  "url": "http://google.com/sample",  "note": "This is a good way to explain it." }
+            ],
+            "connect_in":["name 1", "name 2", "name 3"],
+            "connect_out": [ "This is node 2 " ],
+            "position": { "x": 0, "y": 0, "width": "100px", "height": "40px" },
+            "alt": "like image alt stuff."
+        },
+        {
+            "id": "1234567890abcdef2",
+            "name": "This is node 2",
+            "content": "**Good** Job! `console.log('hello world')` ![my pic](./a.jpg) ",
+            "ref":[
+                { "icon": "video", "url": "http://youtube.com/sample", "note": "This is a good way to explain it." },
+                { "icon": "doc",   "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
+                { "icon": "audio", "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
+                { "icon": "book",  "url": "http://google.com/sample",  "note": "This is a good way to explain it." }
+            ],
+            "connect_in":["name 1", "name 2", "name 3"],
+            "connect_out": [ "name 4", "name 5", "name 6" ],
+            "position": { "x": 40, "y": 200, "width": "120px", "height": "40px" },
+            "alt": "like image alt stuff."
+        }
+    ]
+}
