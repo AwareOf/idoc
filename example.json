@@ -1,5 +1,5 @@
 {
-    "id": "1234567890abcdef",
+    "id": "1234567890abcdef0",
     "title": "example",
     "author": "hexcola",
     "created": "2017.08.17.15:55",
@@ -15,8 +15,7 @@
                 { "icon": "audio", "url": "http://google.com/sample",  "note": "This is a good way to explain it." },
                 { "icon": "book",  "url": "http://google.com/sample",  "note": "This is a good way to explain it." }
             ],
-            "connect": [ "This is node 2 " ],
-            "position": { "x": 0, "y": 0, "width": "100px", "height": "40px" },
+            "connect": [ "This is node 2" ],
             "alt": "like image alt stuff."
         },
         {
@@ -30,7 +29,6 @@
                 { "icon": "book",  "url": "http://google.com/sample",  "note": "This is a good way to explain it." }
             ],
             "connect": [ "name 4", "name 5", "name 6" ],
-            "position": { "x": 40, "y": 200, "width": "120px", "height": "40px" },
             "alt": "like image alt stuff."
         }
     ]
