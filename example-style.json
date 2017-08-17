@@ -1,0 +1,21 @@
+{
+    "id": "1234567890abcdef0",
+    "titleStyle": { "font": "Microsoft YaHei" },
+    "authorStyle": { "backgroundColor": "Blue" },
+    "body": 
+    [
+        {
+            "id": "1234567890abcdef1",
+            "node":  { "width": "180px", "height": "30px", "display": "block", "top": "0", "left": "0" },
+            "nameStyle": { "font": "Microsoft YaHei" },
+            "contentStyle": { "backgroundColor": "Blue" },
+        },
+        {
+            "id": "1234567890abcdef2",
+            "node":  { "width": "180px", "height": "30px", "display": "block", "top": "5px", "left": "0" },
+            "nameStyle": { "font": "Microsoft YaHei" },
+            "contentStyle": { "backgroundColor": "Blue" },
+        }
+    ]
+    version: 1
+}
